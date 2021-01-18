@@ -1,0 +1,39 @@
+body{
+    background-image: url("../img/emilia-music-top.jpg");
+    background-repeat: no-repeat;
+    background-size: 1600px 200px;
+    
+}
+
+ul.home {
+    background-color: rgba(255, 255, 255, 0.5);
+    text-align: right;
+    list-style:none;
+    line-height: 50px; 
+    margin-top: 70px;
+ 
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px; 
+}
+ol.menu {
+    text-decoration: none;
+    color:black;
+    line-height: 35px;
+    text-align: right;
+}
+H1{
+    font-family: raleway;
+    font-size: 50px;
+}
+h2{
+    font-family: raleway;
+}
+h3{
+    color:
+    
+    rgb(4, 238, 4)
+
+}
